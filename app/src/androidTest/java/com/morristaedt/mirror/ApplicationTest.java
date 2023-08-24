@@ -2,7 +2,7 @@ package com.morristaedt.mirror;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
-
+//clone
 /**
  * <a href="http://d.android.com/tools/testing/testing_android.html">Testing Fundamentals</a>
  */
